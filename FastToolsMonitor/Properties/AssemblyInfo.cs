@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
 [assembly: AssemblyTitle("FastToolsMonitor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Мониоринг активности среверов FT и запуск преобразователя ОРС104")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("АО Сибком")]
 [assembly: AssemblyProduct("FastToolsMonitor")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.0.1.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
