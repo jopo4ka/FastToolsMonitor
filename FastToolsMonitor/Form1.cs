@@ -61,6 +61,7 @@ namespace FastToolsMonitor
                 if (counterStarted == Properties.Settings.Default.time)
                 {
                     Process.Start(@"C:\Program files (x86)\ProsoftSystems\opc104\OPC104.exe");
+                    counterStarted = 0;
                 }else
                 {
                     counterStarted++;

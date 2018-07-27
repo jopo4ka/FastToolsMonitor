@@ -63,7 +63,6 @@
             this.killClose.Name = "killClose";
             this.killClose.Size = new System.Drawing.Size(15, 14);
             this.killClose.TabIndex = 1;
-            this.killClose.Text = "checkBox1";
             this.killClose.UseVisualStyleBackColor = false;
             // 
             // Form1
